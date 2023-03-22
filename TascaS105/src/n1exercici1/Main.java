@@ -6,5 +6,6 @@ public class Main {
 		// TODO Auto-generated method stub
 
 	}
-
+//Crea una classe que llisti alfabèticament el contingut d'un directori rebut per paràmetre. 
+	//Crea un fitxer anomenat “readme.txt” per explicar el comando a executar a cada exercici.
 }
