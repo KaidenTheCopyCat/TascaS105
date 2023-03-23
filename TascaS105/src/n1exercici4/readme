@@ -1,0 +1,2 @@
+Per fer servir aquesta clase, la comanda es: 
+ContingutDirectori.mostraFitxer("fitxerPath.txt");

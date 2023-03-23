@@ -1,0 +1,4 @@
+Per fer servir aquesta clase, la comanda per serialitzar es: 
+ContingutDirectori.llistaAlphaRecursiuASerFile("directoriPath");
+la comanda per deserialirzar es:
+ContingutDirectori.deserialitzar("contingutDirectori.ser");
